@@ -3,8 +3,8 @@
 %bcond_without	tests	# Do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Crypt
-%define		pnam	OpenSSL-SMIME
+%define	pdir	Crypt
+%define	pnam	OpenSSL-SMIME
 Summary:	Crypt::OpenSSL::SMIME - signing and encrypting using OpenSSL S/MIME functions
 Summary(pl):	Crypt::OpenSSL::SMIME - podpisywanie i szyfrowanie z u¿yciem funkcji S/MIME OpenSSL
 Name:		perl-Crypt-OpenSSL-SMIME
