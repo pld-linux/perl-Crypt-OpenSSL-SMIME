@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	OpenSSL-SMIME
 Summary:	Crypt::OpenSSL::SMIME - signing and encrypting using OpenSSL S/MIME functions
-Summary(pl):	Crypt::OpenSSL::SMIME - podpisywanie i szyfrowanie z uøyciem funkcji S/MIME OpenSSL
+Summary(pl.UTF-8):   Crypt::OpenSSL::SMIME - podpisywanie i szyfrowanie z u≈ºyciem funkcji S/MIME OpenSSL
 Name:		perl-Crypt-OpenSSL-SMIME
 Version:	0.02
 Release:	1
@@ -25,11 +25,11 @@ messages with S/MIME standard using OpenSSL libraries. It's useful
 for sending sensitive information to Mozilla or Outlook users
 without additional software as PGP.
 
-%description -l pl
-Crypt::OpenSSL::SMIME to modu≥ Perla do podpisywana i szyfrowania
-wiadomo∂ci zgodnie ze standardem S/MIME z uøyciem bibliotek OpenSSL.
-Jest przydatny do wysy≥ania poufnych informacji do uøytkownikÛw
-Mozilli lub Outlooka nie maj±cych dodatkowego oprogramowania typu
+%description -l pl.UTF-8
+Crypt::OpenSSL::SMIME to modu≈Ç Perla do podpisywana i szyfrowania
+wiadomo≈õci zgodnie ze standardem S/MIME z u≈ºyciem bibliotek OpenSSL.
+Jest przydatny do wysy≈Çania poufnych informacji do u≈ºytkownik√≥w
+Mozilli lub Outlooka nie majƒÖcych dodatkowego oprogramowania typu
 PGP.
 
 %prep
