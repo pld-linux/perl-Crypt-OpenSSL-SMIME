@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	OpenSSL-SMIME
 Summary:	Crypt::OpenSSL::SMIME - signing and encrypting using OpenSSL S/MIME functions
-Summary(pl.UTF-8):   Crypt::OpenSSL::SMIME - podpisywanie i szyfrowanie z użyciem funkcji S/MIME OpenSSL
+Summary(pl.UTF-8):	Crypt::OpenSSL::SMIME - podpisywanie i szyfrowanie z użyciem funkcji S/MIME OpenSSL
 Name:		perl-Crypt-OpenSSL-SMIME
 Version:	0.02
 Release:	1
