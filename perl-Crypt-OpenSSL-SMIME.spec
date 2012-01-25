@@ -8,12 +8,12 @@
 Summary:	Crypt::OpenSSL::SMIME - signing and encrypting using OpenSSL S/MIME functions
 Summary(pl.UTF-8):	Crypt::OpenSSL::SMIME - podpisywanie i szyfrowanie z użyciem funkcji S/MIME OpenSSL
 Name:		perl-Crypt-OpenSSL-SMIME
-Version:	0.02
-Release:	4
+Version:	0.05
+Release:	1
 License:	OpenSSL (Apache-like)
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Crypt/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	186d6cb4dcffa7f8b89699552de7750d
+# Source0-md5:	e5b1b0fa495d4ce60c02660fd444369c
 URL:		http://search.cpan.org/dist/Crypt-OpenSSL-SMIME/
 BuildRequires:	openssl-devel >= 0.9.7d
 BuildRequires:	perl-devel >= 1:5.8.0
