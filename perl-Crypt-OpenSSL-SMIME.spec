@@ -62,6 +62,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Crypt/OpenSSL/SMIME.pm
 %dir %{perl_vendorarch}/auto/Crypt/OpenSSL/SMIME
 %{perl_vendorarch}/auto/Crypt/OpenSSL/SMIME/autosplit.ix
-%{perl_vendorarch}/auto/Crypt/OpenSSL/SMIME/SMIME.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Crypt/OpenSSL/SMIME/SMIME.so
 %{_mandir}/man3/*
